@@ -1,2 +1,3 @@
-# gansel51.github.io
-My Personal Site
+# Griffin Ansel's Website
+
+A website with links to my bio and other stuff!
