@@ -1,3 +1,3 @@
-# Griffin Ansel's Website
+# Quick website
 
-A website with links to my bio and other stuff!
+GitHub pages site with links to my LinkedIn, Resume, GitHub, and to email me.
